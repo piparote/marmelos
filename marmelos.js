@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Marmelos 55ch
 // @namespace   55ch
-// @include     http://55ch.org/b/*
+// @include     http://55ch.org/*
 // @version     1.2.1
 // @grant       none
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
