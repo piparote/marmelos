@@ -10,7 +10,8 @@ Pode parar de funcionar caso a moderação adicione novos filtros ou palavras
 #### Chrome:
 Salve o arquivo "marmelos.crx" e arraste para chrome://extensions.
 
-Se der erro, inicie o Chrome c/ a flag –-enable-easy-off-store-extension-install
+Se der erro, tente marcar a caixinha "developer mode" em chrome://extensions, 
+ou inicie o Chrome c/ a flag –-enable-easy-off-store-extension-install.
 
 ### Com Greasemonkey:
 
