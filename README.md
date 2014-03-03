@@ -8,7 +8,8 @@ Pode parar de funcionar caso a moderação adicione novos filtros ou palavras
 ### Sem Greasemonkey:
 
 #### Chrome:
-Salve o arquivo "marmelos.crx" e arraste para chrome://extensions
+Salve o arquivo "marmelos.crx" e arraste para chrome://extensions.
+
 Se der erro, inicie o Chrome c/ a flag –-enable-easy-off-store-extension-install
 
 ### Com Greasemonkey:
@@ -18,6 +19,10 @@ Salve o arquivo "marmelos.js" e crie um novo Userscript com o conteúdo do mesmo
 
 ## É seguro?
 Sim. Mas não confie em mim. O código fonte está aí em cima, leia-o.
+
+Se preferir, ao invés de instalar o .crx, pode mandar o Chrome empacotar os 
+conteúdos da pasta "unpacked", o que gerará um arquivo .crx idêntico ao 
+disponibilizado (a não ser pela private key).
 
 ## ATENÇÃO BANDO DE MACACO
 Certifique-se que, abaixo do título da board (p.e. /b/ - Random), esteja 
