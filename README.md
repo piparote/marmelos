@@ -13,10 +13,11 @@ Salve o arquivo "marmelos.crx" e arraste para chrome://extensions.
 Se der erro, tente marcar a caixinha "developer mode" em chrome://extensions, 
 ou inicie o Chrome c/ a flag –-enable-easy-off-store-extension-install.
 
-### Com Greasemonkey:
+### Com Greasemonkey / Tampermonkey:
 
 #### Qualquer browser:
-Salve o arquivo "marmelos.js" e crie um novo Userscript com o conteúdo do mesmo.
+Salve o arquivo "marmelos.js" encontrado na pasta "unpacked" e crie um novo 
+Userscript com o conteúdo do mesmo.
 
 ## É seguro?
 Sim. Mas não confie em mim. O código fonte está aí em cima, leia-o.
